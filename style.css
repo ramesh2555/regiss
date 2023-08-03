@@ -1,0 +1,15 @@
+label{
+    display: block;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+body{
+    background-color: yellow;
+}
+form{
+    text-align: center;
+    background-color: aqua;
+    margin: 0px 750px 0px 750px;
+}
